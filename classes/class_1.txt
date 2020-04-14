@@ -1,0 +1,13 @@
+Class: Hamburger
+
+Attributes:
+* pattyCount (integer)
+* cheese (boolean)
+* internalTemp (string)
+* bun (string)
+
+
+addPatties (modifies the number of patties on the hamburger. This changes the pattyCount attribute)
+addCheese (boolean that adds cheese to the hamburger if true. This modifies the cheese attribute)
+changeCookTemp (modifies the cook temperature of the hamburger. Such as Rare, Medium-Rare, Medium, etc. This modifies the internalTemp attribute)
+changeBun (changes the type of bun used on the hamburger. Such as plain or sesame bun. This modifies the bun attribute)
