@@ -1,0 +1,13 @@
+Instance: Crazy Horse Restaurant Order Menu
+
+Attributes:
+* entree ("Sirloin steak and Mashed Potatoes")
+* drinks ("Crazy Horse Fruit Punch")
+* deserts (4)
+* appetizers (false)
+
+Methods:
+* selectEntree - entree = "Sirloin steak and Mashed Potatoes"
+* selectDrinks - drinks = "Crazy Horse Fruit Punch"
+* numberOfDeserts - deserts = 4
+* addAppetizer -  appetizer = false
