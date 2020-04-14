@@ -1,0 +1,13 @@
+Instance: James' Cheeseburger
+
+Values for attributes:
+* patties (3)
+* cheese (true)
+* internalTemp ("Medium-Well")
+* bun ("Sesame Seed")
+
+Results of Method:
+* pattyCount - patties = 3
+* addCheese - cheese = true
+* changeCookTemp - internalTemp = "Medium-Well"
+* selectBun - bun = "Sesame Seed"
