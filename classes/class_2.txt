@@ -1,0 +1,13 @@
+Class: Menu
+
+Attributes:
+* entrees (string)
+* drinks (string)
+* deserts (integer)
+* appetizers (boolean)
+
+Methods:
+* selectEntree (provides button for user to select an entree from online menu. This modifies the entree attribute)
+* selectDrink (this provides user with a list of all drink assortments. This modifies the drinks attribute)
+* numberOfDeserts (this asks the user the number of deserts they would like to add. This modifies the desert attribute)
+*addAppetizer (this asks the user if they would like an appetizer added to their order. Returns true if yes. This modifies the appetizer attribute)
