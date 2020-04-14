@@ -1,0 +1,15 @@
+var food = "steak"
+var is_delicious = true
+
+food = "chicken"
+
+var num2 = 2
+var num7 = 7
+
+var quotient = (num7 / num2)
+
+var songs = ["Wake me up!", "Happy Days", "Animal"]
+
+console.log(songs.splice());
+
+console.log(food.length);
